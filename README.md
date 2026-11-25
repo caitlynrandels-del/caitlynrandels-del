@@ -1,16 +1,20 @@
-## Hi there 👋
+# Caitlyn Connor Randels
 
-<!--
-**caitlynrandels-del/caitlynrandels-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Independent Researcher | Creator of Oroboro**
 
-Here are some ideas to get you started:
+Caitlyn Randels (Caitlyn Connor Randels) develops the Oroboro framework for state reduction and relational simulation of complex systems, with applications to consciousness mapping, resilient systems, and spatial computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Work
+
+- **[Oroboro](https://github.com/caitlynrandels-del/Oroboro)**: Zero-dependency runtime that replaces document rendering with world instantiation. Treats language as a semantic coordinate system. Includes consciousness-mapping materials and framework summaries.
+- **[Oroboro Relay](https://github.com/caitlynrandels-del/oroboro-relay)**: Resilient ATC companion applying state reduction and relational simulation to the 13 Nov 2026 FAA communications crisis.
+- **[metastatic-cascade-analysis](https://github.com/caitlynrandels-del/metastatic-cascade-analysis)**: Large-scale parameter sweep analysis of metastatic dissemination models.
+- **[oroboro-os](https://github.com/caitlynrandels-del/oroboro-os)**, **[ORB](https://github.com/caitlynrandels-del/ORB)**, **[sky-ari-ai](https://github.com/caitlynrandels-del/sky-ari-ai)** and additional prototypes.
+
+## Keywords & Focus
+
+Caitlyn Randels, Oroboro, Ouroboros, state reduction, relational simulation, consciousness mapping, VisionOS, spatial computing, delta reconciliation, mesh consensus, independent researcher.
+
+Contact: caitlynrandels@gmail.com
+
+Profile optimized for discoverability of Caitlyn Randels' GitHub repositories and Oroboro systems.
